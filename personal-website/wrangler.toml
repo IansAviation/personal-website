@@ -1,0 +1,7 @@
+name = "personal-website"  # Replace with your preferred project name
+type = "pages"
+
+[build]
+command = "npm run build"  # Ensure this matches the build script in your package.json
+directory = "./personal-website"  # Replace this with the correct output directory of your build
+
